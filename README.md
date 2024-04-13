@@ -1,5 +1,11 @@
 # algoritmo-youtube-simplificado
-Uma suposição de como pode ser o famoso Algoritmo do Youtube. Uma vez que ele é um segredo comercial, posso apenas supor como é seu funcionamento.
+
+<p align="justify">
+  Uma suposição de como pode ser o famoso Algoritmo do Youtube. Uma vez que ele é um segredo comercial, posso apenas supor como é seu funcionamento.
+</p>
+
+<p align="center">
+<img src="silenciopzlogo.jpeg" width="50%">
+</p>
 
 Dev Junior: silenciopz
-<img src="silenciopzlogo.jpeg">

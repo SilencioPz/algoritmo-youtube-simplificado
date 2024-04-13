@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="silenciopzascii.txt" width="50%">
+<img src="silenciopzascii.png" width="50%">
 </p>
 
 Dev Junior: silenciopz
